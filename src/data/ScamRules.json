@@ -1,0 +1,12 @@
+{
+  "suspiciousDomains": ["airdrop-bonus", "secure-wallet", "login-crypto", "giveaway"],
+  "scamPhrases": [
+    "send your seed",
+    "double your crypto",
+    "free airdrop",
+    "urgent action",
+    "limited bonus",
+    "support desk"
+  ],
+  "typosquatting": ["binanace", "coinbasee", "metamasq", "trustwalet"]
+}
